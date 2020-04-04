@@ -1,0 +1,16 @@
+[
+    {
+        "title":"Aliens",
+        "director":"James Cameron",
+        "year":"1986",
+        "rating":"8.5",
+        "id":"1"
+    },
+    {
+        "title":"Fifa 2020",
+        "director":"James miguel",
+        "year":"2020",
+        "rating":"9.5",
+        "id":"2"
+    }
+]
